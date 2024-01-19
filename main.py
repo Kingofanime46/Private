@@ -368,4 +368,4 @@ async def rob(ctx, target: discord.User):
 
 
 token = os.environ.get("TOKEN")
-client.run(os.getenv('TOKEN'))
+bot.run(os.getenv('TOKEN'))
