@@ -367,5 +367,5 @@ async def rob(ctx, target: discord.User):
 
 
 
-token = os.environ.get("TOKEN")
-bot.run(os.getenv('TOKEN'))
+
+bot.run("MTE4OTUzNjQ1MTI4NTc1Mzg2Ng.Gnv8t5.xn2XYxHqW-K6kdryOjOUXerGcni3WQWo_QhDz0")
